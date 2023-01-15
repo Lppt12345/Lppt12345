@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lppt12345. Junior Flutter Dev
+- 👋 Hi, I’m @Lppt12345. Junior Flutter Developer
 - 👀 I’m interested in Flutter, React, Golang
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Flutter project
